@@ -9,7 +9,7 @@
     z-index:-10;
     zoom: 1;
     background: url(../Photos/50387299_p0_master1200.jpg) no-repeat;
-    background-size: cover;
+    background-size: auto auto;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-position: center 0;
